@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/apache-log4j-extras-1.0.jar"/>
+	<classpathentry kind="lib" path="src/backport-util-concurrent-2.2.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging.jar"/>
+	<classpathentry kind="lib" path="src/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/j2ssh-core-0.2.9.jar"/>
+	<classpathentry kind="lib" path="src/jxl.jar"/>
+	<classpathentry kind="lib" path="src/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="src/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="src/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="src/proceduresBeans.xml"/>
+	<classpathentry kind="lib" path="src/spring-aop.jar"/>
+	<classpathentry kind="lib" path="src/spring-beans.jar"/>
+	<classpathentry kind="lib" path="src/spring-context.jar"/>
+	<classpathentry kind="lib" path="src/spring-core.jar"/>
+	<classpathentry kind="lib" path="src/spring-orm.jar"/>
+	<classpathentry kind="lib" path="src/spring.jar"/>
+	<classpathentry kind="lib" path="src/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_33"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
